@@ -1,0 +1,2 @@
+Git: https://github.com/maiyo9x/RJS2-practice4
+Vercel: 
